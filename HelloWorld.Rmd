@@ -1,0 +1,16 @@
+---
+title: "HelloWorld"
+author: "Luca"
+date: "7/3/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+This is my first rmarkdown file for the first project within the Data Science course
+provided by coursera :)
+
